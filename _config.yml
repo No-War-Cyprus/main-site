@@ -1,3 +1,5 @@
+theme: jekyll-theme-yat
+
 collections:
   authors:
     output: true

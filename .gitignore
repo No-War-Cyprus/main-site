@@ -57,3 +57,4 @@ Gemfile.lock
 
 # Jekyll files
 .jekyll-cache/
+_site
