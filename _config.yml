@@ -1,26 +1,20 @@
 theme: jekyll-theme-yat
 
-collections:
-  authors:
-    output: true
-
-defaults:
-  - scope:
-      path: ""
-      type: "authors"
-    values:
-      layout: "author"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
-
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-spaceship
+
+title: Adequate Russians Community. Cyprus
+
+facebook:
+  publisher: https://www.facebook.com/nowarcy
+
+social:
+  name: Adequate Russian Community. Cyprus
+  links:
+    - https://www.facebook.com/nowarcy
+    - https://www.instagram.com/nowarcyprus/
+    - https://www.facebook.com/groups/cybrt
+    - https://t.me/nowarcy
