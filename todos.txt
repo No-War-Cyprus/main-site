@@ -25,7 +25,7 @@ https://t.me/bezopasnyirepost
 
   gtag('config', 'G-SWM3VNM3YP');
 </script>
-2.3
+2.3 search console - activate via txt dns record
 
 3. ? изучить ресурсы коллег из других стран:
 https://www.facebook.com/VenajanDemokratianPuolesta https://www.dem-fi.com/
