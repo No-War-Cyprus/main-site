@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Future without war
-description: Announcement of antiwar action "Future without war" on September 11th 2022 at Molos, Limassol, Cyprus
-tags: announcement action global cyprus limassol
+description: Antiwar action "Future without war", September 11th 2022 at Molos, Limassol, Cyprus
+tags: announcement
 ---
 Global protest of russians against war and terror in more than [20 countries (and counting)](https://taplink.cc/futurewithoutwar)
 
