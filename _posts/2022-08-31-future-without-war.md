@@ -6,6 +6,7 @@ tags: announcement action global cyprus limassol
 ---
 Global protest of russians against war and terror in more than [20 countries (and counting)](https://taplink.cc/futurewithoutwar)
 
+Join [Facebook event](https://www.facebook.com/events/1426241687875384)
 
 The new school year will soon begin in many countries.
 
