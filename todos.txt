@@ -13,23 +13,4 @@ https://t.me/whitebluewhite
 https://t.me/vesna_democrat
 https://t.me/bezopasnyirepost
 
-2. регистрация в гугл поиске и рекламах всяких, подтверждение сайта
-2.1 ? ad sense
-2.2 analytics
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-SWM3VNM3YP"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-SWM3VNM3YP');
-</script>
-2.3 search console - activate via txt dns record
-
-3. ? изучить ресурсы коллег из других стран:
-https://www.facebook.com/VenajanDemokratianPuolesta https://www.dem-fi.com/
-...
-добыть ссылки тут https://taplink.cc/futurewithoutwar и на предыдущих подобных страничках
-
-4. найти контент-менеджера )
+<meta name="facebook-domain-verification" content="hv8a6pblzg2zhcdkil7wzmgwtnft6i" />
