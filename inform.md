@@ -12,14 +12,21 @@ layout: about
 * [https://theins.ru/antifake](https://theins.ru/antifake)
 
 # In Russia ([More info in wiki](https://nowarcy.wiki/en/help_russia))
+## Help Ukranians
 * [Информация для беженцев из Украины в Европу через Россию](https://www.ua-ru.eu/)
 * [Как помочь беженцам из Украины, находясь в России](https://t.me/ArkHelps/15323)
+## Opposition movements
 * [About russian resistance](https://www.russian-resistance.org)
 * [Черный февраль](https://blackfeb.ru/)
 * [Движение сознательных отказчиков от военной службы — ДСО](https://stoparmy.org/)
 * [Школа призывника](https://netprizyvu.ru)
 * [https://impeachment.digital](https://impeachment.digital)
 * [Проект анонимного и безопасного распространения в российских соцсетях фактов о войне и о её последствиях для россиян.](https://t.me/antipropagandarf)
+## Human rights
+* [«Комитет против пыток»](www.pytkam.net)
+## Media
+* [Mediazona](https://zona.media)
+* [Meduza](https://meduza.io/en)
 
 # Russian organisations outside Russia
 * [Map of peace](https://mapofpeace.org/)
