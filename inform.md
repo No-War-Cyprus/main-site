@@ -37,6 +37,7 @@ layout: about
 
 * [Mediazona](https://zona.media)
 * [Meduza](https://meduza.io/en)
+* [Такие дела](https://takiedela.ru)
 
 # Russian organisations outside Russia
 

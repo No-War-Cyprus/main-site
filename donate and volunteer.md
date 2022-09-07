@@ -21,6 +21,9 @@ And more
 
 # Help Russians opposition and legal and human rights organisation
 * [OVD-info](https://donate.ovd.legal/) european cards via [global giving](https://www.globalgiving.org/projects/ovd-info/)
+
+# Media
 * [Mediazona](https://donate.zona.media/en)
 * [«Комитет против пыток»](https://donate.pytkam.net/) russian cards only
 * [Meduza](https://support.meduza.io/)
+* [Такие дела](https://takiedela.ru/donate/)
