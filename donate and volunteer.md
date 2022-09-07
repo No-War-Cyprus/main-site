@@ -20,7 +20,7 @@ And more
 
 
 # Help Russians opposition and legal and human rights organisation
-* [OVD-info](https://donate.ovd.legal/) european cards via [отдельный сервис](https://www.globalgiving.org/projects/ovd-info/)
+* [OVD-info](https://donate.ovd.legal/) european cards via [global giving](https://www.globalgiving.org/projects/ovd-info/)
 * [Mediazona](https://donate.zona.media/en)
 * [«Комитет против пыток»](https://donate.pytkam.net/) russian cards only
 * [Meduza](https://support.meduza.io/)
