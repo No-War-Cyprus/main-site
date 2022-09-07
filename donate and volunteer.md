@@ -27,3 +27,4 @@ And more
 * [«Комитет против пыток»](https://donate.pytkam.net/) russian cards only
 * [Meduza](https://support.meduza.io/)
 * [Такие дела](https://takiedela.ru/donate/)
+* [Novaya Gazeta. Europe](https://novayagazeta.eu/donate)
