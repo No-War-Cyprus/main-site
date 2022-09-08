@@ -23,15 +23,15 @@ layout: about
 ### Opposition movements
  
 * [About russian resistance](https://www.russian-resistance.org)
-* [Черный февраль](https://blackfeb.ru/)
-* [Движение сознательных отказчиков от военной службы — ДСО](https://stoparmy.org/)
-* [Школа призывника](https://netprizyvu.ru)
 * [https://impeachment.digital](https://impeachment.digital)
 * [Проект анонимного и безопасного распространения в российских соцсетях фактов о войне и о её последствиях для россиян.](https://t.me/antipropagandarf)
 
 ### Human rights
  
-* [«Комитет против пыток»](www.pytkam.net)
+* [«Комитет против пыток»](https://www.pytkam.net)
+* [Черный февраль](https://blackfeb.ru/)
+* [Школа призывника](https://netprizyvu.ru)
+* [Движение сознательных отказчиков от военной службы — ДСО](https://stoparmy.org/)
 
 ### Media
 
