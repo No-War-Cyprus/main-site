@@ -19,6 +19,7 @@ layout: about
  
 * [Информация для беженцев из Украины в Европу через Россию](https://www.ua-ru.eu/)
 * [Как помочь беженцам из Украины, находясь в России](https://t.me/ArkHelps/15323)
+* [Tickets from Russia to the EU border for evacuated Ukrainians](https://ua2eu.site/index.html)
 
 ### Opposition movements
  
