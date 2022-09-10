@@ -10,6 +10,7 @@ layout: about
 * [https://www.stopfake.org/en/main/](https://www.stopfake.org/en/main/)
 * [https://papapover.super.site/](https://papapover.super.site/)
 * [https://theins.ru/antifake](https://theins.ru/antifake)
+* [Проверено.media](https://provereno.media/tag/%d1%83%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0/)
 
 ## In Cyprus
 * [Ukrainian community](https://t.me/uacyprus)
