@@ -25,8 +25,19 @@ layout: about
 
 ### Opposition movements
 * [About russian resistance](https://www.russian-resistance.org)
+* [Весна](https://t.me/vesna_democrat)
 * [https://impeachment.digital](https://impeachment.digital)
 * [Проект анонимного и безопасного распространения в российских соцсетях фактов о войне и о её последствиях для россиян.](https://t.me/antipropagandarf)
+* [«Феминистское антивоенное сопротивление»](https://t.me/femagainstwar)
+* [Движение «Очнись»](https://t.me/wakeup_russia)
+* [«Восьмая инициативная группа»](https://t.me/Femspb)
+* [«Зелёная лента»](https://t.me/zelenayalenta)
+
+### Hardcore opposition movements
+* [Антивоенный больничный](https://t.me/stranabolna)
+* [Боец Анархист](https://t.me/BO_AK_reborn)
+* [Останови вагоны](https://t.me/ostanovivagonyy)
+* [Черный мост](https://t.me/blackbridge)
 
 ### Human rights
 * [«Комитет против пыток»](https://www.pytkam.net)
@@ -39,6 +50,9 @@ layout: about
 * [Meduza](https://meduza.io/en)
 * [Такие дела](https://takiedela.ru)
 * [Novaya Gazeta. Europe](https://novayagazeta.eu)
+* [Популярная политика](https://www.youtube.com/c/Popularpolitics)
+* [Майкл Наки](https://www.youtube.com/c/MackNack)
+* [Навальный LIVE](https://www.youtube.com/c/NavalnyLiveChannel)
 
 ## Russian organisations outside Russia
 * [Map of peace](https://mapofpeace.org/)

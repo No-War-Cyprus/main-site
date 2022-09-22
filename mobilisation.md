@@ -39,4 +39,5 @@ image: https://telegra.ph/file/73222eddf45b88b111533.jpg
 * * [«Школа призывника»](https://t.me/netprizyvu)
 * * [«Комитет солдатских матерей»](https://t.me/KomSoldMatRos)
 
-## 
+### Медуза: ["Что делать, если вы не хотите воевать в Украине?"](https://meduza.io/feature/2022/09/21/vladimir-putin-ob-yavil-chastichnuyu-mobilizatsiyu-v-rossii-vot-spisok-organizatsiy-kotorye-pomogut-vam-izbezhat-prizyva-esli-vy-ne-hotite-voevat)
+
