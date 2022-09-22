@@ -4,7 +4,6 @@ layout: about
 ---
 * ## [Памятка от ОВД-инфо](https://ovd.legal/instruction/police)
 * ## [Памятка от Весны](https://telegra.ph/Pamyatka-protestuyushchego-03-06)
-* * [Памятка задержанным](ovd.legal/instruction/police)
 * * Боты «ОВД-Инфо» и «Апологии протеста» в Телеграм. Пишите туда, если вас задержали:
 * * * @OvdInfoBot
 * * * @ApologiaHelp.
