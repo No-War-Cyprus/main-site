@@ -41,3 +41,4 @@ image: https://telegra.ph/file/73222eddf45b88b111533.jpg
 
 ### Медуза: ["Что делать, если вы не хотите воевать в Украине?"](https://meduza.io/feature/2022/09/21/vladimir-putin-ob-yavil-chastichnuyu-mobilizatsiyu-v-rossii-vot-spisok-organizatsiy-kotorye-pomogut-vam-izbezhat-prizyva-esli-vy-ne-hotite-voevat)
 
+### Еще Медуза: ["Куда бежать из России прямо сейчас"](https://meduza.io/feature/2022/09/21/kuda-bezhat-iz-rossii-pryamo-seychas-spisok-stran)
