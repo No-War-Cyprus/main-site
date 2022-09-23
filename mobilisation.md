@@ -3,6 +3,8 @@ title: Mobilisation
 layout: about
 image: https://telegra.ph/file/73222eddf45b88b111533.jpg
 ---
+## [Пост постов от Антивоенного больничного](https://t.me/stranabolna/2502)
+
 ## Хороший пост от Дискурса
 [оригинал в телеграме](https://t.me/discoursio/5538)
 

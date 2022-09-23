@@ -3,6 +3,7 @@ title: Rallies in Russia
 layout: about
 ---
 ## [Обращение от российских антивоенных инициатив к тем, кто уехал](https://t.me/vesna_democrat/3854)
+## [Пост постов от Антивоенного больничного](https://t.me/stranabolna/2502)
 ## [Памятка от ОВД-инфо](https://ovd.legal/instruction/police)
 ## Детальные инструкции о ОВД-инфо
 * [Как общаться с силовиками: допрос, опрос, беседа](https://ovd.legal/instruction/dopros-opros-beseda)
