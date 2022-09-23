@@ -34,7 +34,7 @@ image: https://telegra.ph/file/73222eddf45b88b111533.jpg
 
 * [Что означают новые законы о «неисполнении приказов», «дезертирстве», «сдаче в плен» и почему они сделают солдат более бесправными](https://tinyurl.com/mob-law)
 
-* На какие каналы стоит подписаться, чтобы быть в курсе нововведений и изменений ситуации
+* На какие каналы стоит подписаться, чтобы быть в курсе нововведений и изВсе, что вам нужно знать, если мобилизация касается вас или ваших близкихменений ситуации
 * * [правозащитник Павел Чиков](https://t.me/pchikov)
 * * [«Ковчег»](https://t.me/ArkHelps)
 * * [«Служба поддержки»](https://t.me/helpdesk_media)
@@ -43,6 +43,8 @@ image: https://telegra.ph/file/73222eddf45b88b111533.jpg
 
 ### Медуза: ["Что делать, если вы не хотите воевать в Украине?"](https://meduza.io/feature/2022/09/21/vladimir-putin-ob-yavil-chastichnuyu-mobilizatsiyu-v-rossii-vot-spisok-organizatsiy-kotorye-pomogut-vam-izbezhat-prizyva-esli-vy-ne-hotite-voevat)
 
-### Еще Медуза: ["Куда бежать из России прямо сейчас"](https://meduza.io/feature/2022/09/21/kuda-bezhat-iz-rossii-pryamo-seychas-spisok-stran)
+### Медуза: ["Куда бежать из России прямо сейчас"](https://meduza.io/feature/2022/09/21/kuda-bezhat-iz-rossii-pryamo-seychas-spisok-stran)
 
-### ["Я не хочу воевать. Что делать? Отвечает военный юрист"](https://meduza.io/feature/2022/09/21/ya-ne-hochu-voevat-chto-delat)
+### Медуза: ["Я не хочу воевать. Что делать? Отвечает военный юрист"](https://meduza.io/feature/2022/09/21/ya-ne-hochu-voevat-chto-delat)
+
+## Медуза: [Все, что вам нужно знать, если мобилизация касается вас или ваших близких](https://meduza.io/feature/2022/09/23/vse-chto-vam-nuzhno-znat-esli-mobilizatsiya-kasaetsya-vas-ili-vashih-blizkih)
