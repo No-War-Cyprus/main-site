@@ -5,6 +5,7 @@ layout: about
 ## Global
 * [Help for people in wartime](https://napryamok.org/en)
 * [https://war.ukraine.ua/](https://war.ukraine.ua/)
+* [Українцi в Європi](https://uainfo.eu/)
 
 ## Anti propaganda
 * [https://www.stopfake.org/en/main/](https://www.stopfake.org/en/main/)
