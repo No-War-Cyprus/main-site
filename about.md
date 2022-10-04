@@ -15,6 +15,7 @@ layout: about
 * [Основной телеграм чат](https://t.me/cy_walks)
 * [Много полезного в wiki](https://nowarcy.wiki/)
 * [Русскоязычная группа ФБ](https://www.facebook.com/groups/cybrt)
+* [Youtube](https://www.youtube.com/channel/UCTHaQeAiXJ2YAsrbdcjDIKg)
 * [Чат для болтовни](https://t.me/+V_QPQlJNBYo5MTNk)
 
 ## Прочее
