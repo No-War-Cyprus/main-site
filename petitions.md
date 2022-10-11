@@ -14,6 +14,7 @@ layout: about
 И еще несколько петиций готовых к отправке депутатам
 
 ## Global
+### [Kick Russia out of the UN](https://www.change.org/p/kick-russia-out-of-the-un)
 ### [The European Union must protect Russians fleeing Putin's criminal mobilization!](https://www.change.org/p/the-european-union-must-protect-russians-fleeing-putin-s-criminal-mobilization)
 
 ### [Лев Пономарев: Путин перешел рубикон](https://www.change.org/p/%D0%BF%D1%83%D1%82%D0%B8%D0%BD-%D0%BF%D0%B5%D1%80%D0%B5%D1%88%D0%B5%D0%BB-%D1%80%D1%83%D0%B1%D0%B8%D0%BA%D0%BE%D0%BD)
