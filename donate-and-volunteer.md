@@ -26,6 +26,7 @@ layout: about
 
 
 ## Help Russians opposition and legal and human rights organisations
+* [Весна](https://vesna.democrat/donate/) Patreon/Boosty/Crypto
 * [OVD-info](https://donate.ovd.legal/) european cards via [global giving](https://www.globalgiving.org/projects/ovd-info/)
 * [«Комитет против пыток»](https://donate.pytkam.net/) russian cards only
 
