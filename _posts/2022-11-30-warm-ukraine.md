@@ -18,7 +18,7 @@ tags: info
   Если вам или вашим знакомым в рф требуется сделать пожертвования с российской карты, то в качестве  прокси может воспользоваться [https://holod.news/](https://holod.news/)
 
 
-* [Сбор  на генераторы для медицинских учреждений от United24 | UNITED24 Ambassadors' fundraiser for generators to support medical facilities in Ukraine](https://donorbox.org/1000generators)
+* [UNITED24 Ambassadors' fundraiser for generators to support medical facilities in Ukraine](https://donorbox.org/1000generators)
 
 
 Следите за обновлениями и подробностями в [инфоканале](https://t.me/nowarcy)
