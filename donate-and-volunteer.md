@@ -11,7 +11,13 @@ layout: about
 * [Razom](https://www.razomforukraine.org/donate/)
 * [Nova Ukraine](https://novaukraine.org/en/donate/)
 
-And more
+## Warm Ukraine
+* [Вернём тепло и свет Украине!](https://wfu.world/)
+* [Нидерландская благотворительная организация Zeilen van Vrijheid собирает на генераторы](https://zeilenvanvrijheid.nl/energy)
+* Till Dec 7, russians cards only [https://holod.news/](https://holod.news/)
+* [Сбор  на генераторы для медицинских учреждений от United24 | UNITED24 Ambassadors' fundraiser for generators to support medical facilities in Ukraine](https://donorbox.org/1000generators)
+
+## Help Ukrainians who forced to move to Russia
 * [Tickets from Russia to the EU border for evacuated Ukrainians](https://ua2eu.site/donate.html)
 
 ## Help Ukrainian refugees in Cyprus
@@ -19,11 +25,11 @@ And more
 * [Help with transfers](https://t.me/CyprusWheels) 
 
 
-## Help Russians opposition and legal and human rights organisation
+## Help Russians opposition and legal and human rights organisations
 * [OVD-info](https://donate.ovd.legal/) european cards via [global giving](https://www.globalgiving.org/projects/ovd-info/)
 * [«Комитет против пыток»](https://donate.pytkam.net/) russian cards only
 
-## Media
+## Help Russian independednt media
 * [Mediazona](https://donate.zona.media/en)
 * [Meduza](https://support.meduza.io/)
 * [Такие дела](https://takiedela.ru/donate/)
