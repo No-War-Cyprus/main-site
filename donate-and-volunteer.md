@@ -31,6 +31,7 @@ layout: about
 * [«Комитет против пыток»](https://donate.pytkam.net/) russian cards only
 
 ## Help Russian independednt media
+* [TV Rain](https://tvrain.tv/en/)
 * [Mediazona](https://donate.zona.media/en)
 * [Meduza](https://support.meduza.io/)
 * [Такие дела](https://takiedela.ru/donate/)
