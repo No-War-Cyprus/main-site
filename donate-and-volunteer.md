@@ -32,6 +32,7 @@ layout: about
 * [Весна](https://vesna.democrat/donate/) Patreon/Boosty/Crypto
 * [OVD-info](https://donate.ovd.legal/) european cards via [global giving](https://www.globalgiving.org/projects/ovd-info/)
 * [«Комитет против пыток»](https://donate.pytkam.net/) russian cards only
+* [Заодно – платформа взаимопомощи](https://zaodno.org/) russian cards only
 
 ## Help Russian independednt media
 * [TV Rain](https://tvrain.tv/en/)
