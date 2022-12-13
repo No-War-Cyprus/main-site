@@ -14,7 +14,8 @@ On 4 December 2022 we held a Stop Terror / Winter is Here rally in Limassol, Cyp
 
 We thank everyone who joined us in the rally.
 
-![](https://youtu.be/XpqCbaLcoTo)
+![](https://www.youtube.com/watch?v=XpqCbaLcoTo)
+![](https://www.youtube.com/watch?v=6EHEKAPaz-c)
 
 #RussiansAgainstWar #StandWithUkraine
 
