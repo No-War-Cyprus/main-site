@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Returning of the names
+title: Winter is here
 description: December 4th 2022, Limassol - An anti-war rally organized by the russian community took place at Molos
 tags: report
 ---
