@@ -52,8 +52,9 @@ layout: about
 * [Такие дела](https://takiedela.ru)
 * [Novaya Gazeta. Europe](https://novayagazeta.eu)
 * [Популярная политика](https://www.youtube.com/c/Popularpolitics)
-* [Майкл Наки](https://www.youtube.com/c/MackNack)
 * [Навальный LIVE](https://www.youtube.com/c/NavalnyLiveChannel)
+* [Майкл Наки](https://www.youtube.com/c/MackNack)
+* [Владимир Милов](https://www.youtube.com/@Vladimir_Milov)
 
 ## Russian organisations outside Russia
 * [Map of peace](https://mapofpeace.org/)

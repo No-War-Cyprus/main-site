@@ -30,13 +30,18 @@ layout: about
 
 ## Help Russians opposition and legal and human rights organisations
 <!-- * [Весна](https://vesna.democrat/donate/) Patreon/Boosty/Crypto -->
+* [Alexeii Navalny's Anti-corruption Foundation](https://acf.international/)
 * [OVD-info](https://donate.ovd.legal/) european cards via [global giving](https://www.globalgiving.org/projects/ovd-info/)
 * [«Комитет против пыток»](https://donate.pytkam.net/) russian cards only
 * [Заодно – платформа взаимопомощи](https://zaodno.org/) russian cards only
 
-## Help Russian independednt media
+## Help Russian independent media
 * [TV Rain](https://tvrain.tv/donate-en/)
-* [Mediazona](https://donate.zona.media/en)
 * [Meduza](https://support.meduza.io/)
-* [Такие дела](https://takiedela.ru/donate/)
 * [Novaya Gazeta. Europe](https://novayagazeta.eu/donate)
+* [Mediazona](https://donate.zona.media/en)
+* [Popular Politics](https://www.patreon.com/Popularpolitics)
+* [Navalny Live](https://navalnylive.com/en)
+* [Майкл Наки](https://www.patreon.com/macknack)
+* [Владммир Милов](https://www.patreon.com/milov)
+* [Такие дела](https://takiedela.ru/donate/)
