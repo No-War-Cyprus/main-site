@@ -55,6 +55,7 @@ layout: about
 * [Навальный LIVE](https://www.youtube.com/c/NavalnyLiveChannel)
 * [Майкл Наки](https://www.youtube.com/c/MackNack)
 * [Владимир Милов](https://www.youtube.com/@Vladimir_Milov)
+* [Conflict Intelligence Team](https://t.me/CITeam)
 
 ## Russian organisations outside Russia
 * [Map of peace](https://mapofpeace.org/)

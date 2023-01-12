@@ -11,7 +11,7 @@ layout: about
 * * [Razom](https://www.razomforukraine.org/donate/)
 * * [Nova Ukraine](https://novaukraine.org/en/donate/)
 * [Via local Ukrainian community](https://www.facebook.com/uacyprus.zvit/posts/pfbid0DTp9Jc3RLTn4KyG4agDVUkZMiS15wzVhwePVp1DfjWFNeCDgoe9Zf3tsjEe5ykEFl)
-
+* [Via global russians initiative Freedom birds for Ukraine](https://freedombirds.help/)
 
 ## Warm Ukraine
 * [Вернём тепло и свет Украине!](https://wfu.world/)
@@ -22,6 +22,7 @@ layout: about
 
 ## Help Ukrainians who forced to move to Russia
 * [Tickets from Russia to the EU border for evacuated Ukrainians](https://ua2eu.site/donate.html)
+
 
 ## Help Ukrainian refugees in Cyprus
 * [CY4UA](https://cy4ua.com/language/en/i-can-help/) is an international group of volunteers who are based in Cyprus
@@ -44,4 +45,5 @@ layout: about
 * [Navalny Live](https://navalnylive.com/en)
 * [Майкл Наки](https://www.patreon.com/macknack)
 * [Владммир Милов](https://www.patreon.com/milov)
+* [Conflict Intelligence Team](https://www.patreon.com/cit)
 * [Такие дела](https://takiedela.ru/donate/)
