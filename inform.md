@@ -56,6 +56,7 @@ layout: about
 * [Майкл Наки](https://www.youtube.com/c/MackNack)
 * [Владимир Милов](https://www.youtube.com/@Vladimir_Milov)
 * [Conflict Intelligence Team](https://t.me/CITeam)
+* [DOXA](https://dx1112-dot-xenon-antonym-362119.ew.r.appspot.com/)
 
 ## Russian organisations outside Russia
 * [Map of peace](https://mapofpeace.org/)

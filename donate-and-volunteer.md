@@ -46,4 +46,5 @@ layout: about
 * [Майкл Наки](https://www.patreon.com/macknack)
 * [Владммир Милов](https://www.patreon.com/milov)
 * [Conflict Intelligence Team](https://www.patreon.com/cit)
+* [DOXA](https://dx1112-dot-xenon-antonym-362119.ew.r.appspot.com/) ([Patreon](https://www.patreon.com/doxajournal))
 * [Такие дела](https://takiedela.ru/donate/)
