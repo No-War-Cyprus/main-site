@@ -10,8 +10,10 @@ layout: about
 * * [Hospitallers](https://www.hospitallers.life/needs-hospitallers)
 * * [Razom](https://www.razomforukraine.org/donate/)
 * * [Nova Ukraine](https://novaukraine.org/en/donate/)
+* Via other Ukrainian organisations
+* * [Hold my hand](https://helpinghand.org.ua/en)
 * [Via local Ukrainian community](https://www.facebook.com/uacyprus.zvit/posts/pfbid0DTp9Jc3RLTn4KyG4agDVUkZMiS15wzVhwePVp1DfjWFNeCDgoe9Zf3tsjEe5ykEFl)
-* [Via global russians initiative Freedom birds for Ukraine](https://freedombirds.help/)
+* [Via global initiative of russian expats "Freedom birds for Ukraine"](https://freedombirds.help/)
 
 ## Warm Ukraine
 * [Вернём тепло и свет Украине!](https://wfu.world/)

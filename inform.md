@@ -45,6 +45,7 @@ layout: about
 * [Черный февраль](https://blackfeb.ru/)
 * [Школа призывника](https://netprizyvu.ru)
 * [Движение сознательных отказчиков от военной службы — ДСО](https://stoparmy.org/)
+* [Free Navalny](https://free.navalny.com/)
 
 ### Media
 * [Mediazona](https://zona.media)
