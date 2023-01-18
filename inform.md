@@ -33,6 +33,7 @@ layout: about
 * [Движение «Очнись»](https://t.me/wakeup_russia)
 * [«Восьмая инициативная группа»](https://t.me/Femspb)
 * [«Зелёная лента»](https://t.me/zelenayalenta)
+* [АнтиФонд](https://t.me/strikefund): Поддержка забастовок и защита трудовых прав при сокращениях и простоях, притеснениях на работе за гражданскую позицию
 
 ### Hardcore opposition movements
 * [Антивоенный больничный](https://t.me/stranabolna)
@@ -50,13 +51,17 @@ layout: about
 ### Media
 * [Mediazona](https://zona.media)
 * [Meduza](https://meduza.io/en)
-* [Такие дела](https://takiedela.ru)
 * [Novaya Gazeta. Europe](https://novayagazeta.eu)
 * [Популярная политика](https://www.youtube.com/c/Popularpolitics)
 * [Навальный LIVE](https://www.youtube.com/c/NavalnyLiveChannel)
 * [Майкл Наки](https://www.youtube.com/c/MackNack)
 * [Владимир Милов](https://www.youtube.com/@Vladimir_Milov)
 * [Conflict Intelligence Team](https://t.me/CITeam)
+* [Сирена](https://t.me/news_sirena)
+* [Activatica.org](https://t.me/activatica): Медиа о гражданском активизме
+* [7х7 — Горизонтальная Россия](https://t.me/horizontal_russia): новости и вдохновляющие истории не из Москвы
+* [НОВОСТИ-26](https://t.me/novosti_26_2022): Подросткам о российской политике // Новости, подкаст, словарь и многое другое
+* [Такие дела](https://takiedela.ru)
 * [DOXA](https://dx1112-dot-xenon-antonym-362119.ew.r.appspot.com/)
 
 ## Russian organisations outside Russia
