@@ -18,13 +18,17 @@ layout: about
 ## Warm Ukraine
 * [Вернём тепло и свет Украине!](https://wfu.world/)
 * [Нидерландская благотворительная организация Zeilen van Vrijheid собирает на генераторы](https://zeilenvanvrijheid.nl/energy)
-* Till Dec 7, russians cards only [https://holod.news/](https://holod.news/)
+<!-- * Till Dec 7, russians cards only [https://holod.news/](https://holod.news/) -->
 * [UNITED24 Ambassadors' fundraiser for generators to support medical facilities in Ukraine](https://donorbox.org/1000generators)
 
 
 ## Help Ukrainians who forced to move to Russia
 * [Tickets from Russia to the EU border for evacuated Ukrainians](https://ua2eu.site/donate.html)
-
+* [Чат помощи тем, кто в ПВР](https://t.me/+2CXTeMk6AWJlYTZi)
+* [Чат "Москва проездом"](https://t.me/+QdQMjZWCEQpmODli)
+* [Чат "Питер проездом"](https://t.me/+O5FDrSzB8B5lNGUy)
+* [Чат помощи тем, кто планирует остаться в России](https://t.me/+ni1KenvCwAZlN2Yy)
+* [#РостовПомогает: волонтеры в помощь беженцам из Украины](https://t.me/+PwjjKieTAYkyMWIy)
 
 ## Help Ukrainian refugees in Cyprus
 * [CY4UA](https://cy4ua.com/language/en/i-can-help/) is an international group of volunteers who are based in Cyprus
