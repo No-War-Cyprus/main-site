@@ -63,6 +63,11 @@ layout: about
 * [НОВОСТИ-26](https://t.me/novosti_26_2022): Подросткам о российской политике // Новости, подкаст, словарь и многое другое
 * [Такие дела](https://takiedela.ru)
 * [DOXA](https://dx1112-dot-xenon-antonym-362119.ew.r.appspot.com/)
+* [Проект](https://www.proekt.media/) (+[telegram](https://t.me/proektproekt)): Мы — репортеры и журналисты-расследователи, создавшие лучшие свободные СМИ в России, но теперь оказавшиеся под катком репрессий в своей собственной стране.
+* [Агентство. Новости](https://t.me/agentstvonews): Новости, про которые боятся писать в России
+
+https://t.me/agentstvonews
+
 
 ## Russian organisations outside Russia
 * [Map of peace](https://mapofpeace.org/)
