@@ -34,6 +34,9 @@ layout: about
 * [CY4UA](https://cy4ua.com/language/en/i-can-help/) is an international group of volunteers who are based in Cyprus
 * [Help with transfers](https://t.me/CyprusWheels) 
 
+## Help Ukrainian refugees in other countries
+* [Georgia](https://volunteerstbilisi.com/en/donate)
+* [Georgia once again](https://volunteerstbilisi.com/en/donate)
 
 ## Help Russians opposition and legal and human rights organisations
 <!-- * [Весна](https://vesna.democrat/donate/) Patreon/Boosty/Crypto -->
