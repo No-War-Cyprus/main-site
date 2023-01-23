@@ -53,15 +53,14 @@ https://drive.google.com/drive/folders/1e1vMoEtLyoC_2N89TR1U1VyweWwFY8rK
 
 Контактный email: nowarcy@gmail.com
 
-Social media
-https://www.facebook.com/nowarcy/posts/pfbid02km8WfBHYzqseBcLyauNfBCgMgbbZKMbuZCPRfLaBWqkSjSV56v9coQmcqDttp2LWl
+[Facebook page](https://www.facebook.com/nowarcy/posts/pfbid02km8WfBHYzqseBcLyauNfBCgMgbbZKMbuZCPRfLaBWqkSjSV56v9coQmcqDttp2LWl)
 
-https://www.facebook.com/groups/cybrt/posts/731122318359354/
+[Facebook group](https://www.facebook.com/groups/cybrt/posts/731122318359354/)
 
-https://www.instagram.com/p/Cntdp8qgvro/
+[Instagram](https://www.instagram.com/p/Cntdp8qgvro/)
 
-https://www.instagram.com/p/Cnv0gXkDQow/
+[Instagram](https://www.instagram.com/p/Cnv0gXkDQow/)
 
-https://www.instagram.com/p/Cnv1_PrDT_R/
+[Instagram](https://www.instagram.com/p/Cnv1_PrDT_R/)
 
 Следите за обновлениями и подробностями в [инфоканале](https://t.me/nowarcy)
