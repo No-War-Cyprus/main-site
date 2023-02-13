@@ -10,12 +10,13 @@ English below
 
 [Facebook event](https://www.facebook.com/events/5727921757255363)
 
-📅 📍 Лимасол у почётного консульства рф (Gladstonos, 140)
-С 18:30 проводим митинг с флагами и плакатами
-В 20:00 через центральные улицы идём до Молоса
+📅 📍 [Лимасол у почётного консульства рф (Gladstonos, 140)](https://www.google.com/maps/search/34.683723,+33.051014)
+* С 18:30 проводим митинг с флагами и плакатами 
+* В 20:00 через центральные улицы идём до Молоса
 
-📅 📍Никосия у посольства рф (Ayios Prokopios & Arch.Makarios III Str. Corner 2406 Engomi)
-Пикеты с 18:00 до 19:00, после этого прогулка до центра, где можно присоединиться к украинской акции #LightWillWinOverDarkness🇺🇦 на площади Eleftheria https://www.facebook.com/groups/uacyprus/posts/5791244160983393
+📅 📍[Никосия у посольства рф (Ayios Prokopios & Arch.Makarios III Str. Corner 2406 Engomi)](https://goo.gl/maps/frvfN5oP68hTCt6Z7)
+* Пикеты с 18:00 до 19:00
+* После этого прогулка до центра, где можно присоединиться к украинской акции [#LightWillWinOverDarkness🇺🇦](https://www.facebook.com/groups/uacyprus/posts/5791244160983393) на площади Eleftheria
 
 Акция приурочена к годовщине полномасштабного вторжения России в Украину, году страшных человеческих жертв и разрушенных украинских городов
 
@@ -26,12 +27,15 @@ English below
 Присоединяйтесь к антивоенному движению https://t.me/nowarcy
 
 
-24 February, Rallies in Limassol and Nicosia
-📅 📍Limassol Near the honorary consulate of the Russian Federation (Gladstonos, 140)
-Rallies between 18:30 and 20:00, then walk across the city center to Molos
+## 24 February, Rallies in Limassol and Nicosia
 
-📅 📍Nicosia Near the Embassy of the Russian Federation (Ayios Prokopios & Arch.Makarios III Str. Corner 2406 Engomi)
-Rallies between 18:00 and 19:00, followed by a walk to the city center with the option to join the Ukrainian rally at the Eleftheria Square (#LightWillWinOverDarkness🇺🇦 https://www.facebook.com/groups/uacyprus/posts/5791244160983393)
+📅 📍[Limassol Near the honorary consulate of the Russian Federation (Gladstonos, 140)](https://www.google.com/maps/search/34.683723,+33.051014)
+* Rallies between 18:30 and 20:00
+* then walk across the city center to Molos
+
+📅 📍[Nicosia Near the Embassy of the Russian Federation (Ayios Prokopios & Arch.Makarios III Str. Corner 2406 Engomi)](https://goo.gl/maps/frvfN5oP68hTCt6Z7)
+* Rallies between 18:00 and 19:00
+* followed by a walk to the city center with the option to join the Ukrainian rally at the Eleftheria Square ([#LightWillWinOverDarkness🇺🇦](https://www.facebook.com/groups/uacyprus/posts/5791244160983393))
 
 The action is to take place on the anniversary of the full-scale invasion of Russia into Ukraine. This marks a year of horrific loss of life and destruction in Ukraine.
 
