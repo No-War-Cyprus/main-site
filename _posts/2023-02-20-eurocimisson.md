@@ -4,8 +4,7 @@ title: Meeting with European Commission
 description: Российские антивоенные активисты на Кипре встретились с местным представительством Еврокомиссии / Russian Anti-War Activists in Cyprus meet with the Local Representation of the European Commission
 tags: pressrelease
 ---
-# Российские антивоенные активисты на Кипре встретились с местным представительством Еврокомиссии
-## Russian Anti-War Activists in Cyprus meet with the Local Representation of the European Commission
+# Российские антивоенные активисты на Кипре встретились с местным представительством Еврокомиссии / Russian Anti-War Activists in Cyprus meet with the Local Representation of the European Commission
 
 [Facebook](https://www.facebook.com/nowarcy/posts/pfbid0kWJ3AYD6ESX9gt6BQxbhcJUpmwWKEEELvi94KNQrWw5a4HreiUWRqjcGNNZoVQSrl)
 
