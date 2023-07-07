@@ -38,9 +38,9 @@
     nextButton.addEventListener('click', async function () {
         nextButton.disabled = true
 
-        daysCount.value = parseInt(daysCount.value) + 1
-
         await playAudio(bellSound)
+
+        daysCount.value = parseInt(daysCount.value) + 1
 
         nextButton.disabled = false
     });
