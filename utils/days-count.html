@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Days Count</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <style>
+        .font-lg {
+            font-size: 10rem !important;
+        }
+        .btn-square-xl {
+            max-width: 100% !important;
+            max-height: 100% !important;
+            height: 10rem !important;
+            text-align: center;
+            padding: 0px;
+            font-size:24px;
+        }
+    </style>
+</head>
+<body>
+<div class="container-fluid">
+    <div class="row">
+        <div class="input-group mb-3 input-group-lg">
+            <span class="input-group-text" id="basic-addon1">Day</span>
+            <input type="number" class="form-control font-lg" aria-label="Day" aria-describedby="basic-addon1" value="1" id="days-count">
+        </div>
+    </div>
+    <div class="row">
+        <button class="btn btn-primary btn-lg btn-block btn-square-xl" type="button" id="next-button">Next</button>
+    </div>
+    <audio id="bell-sound">
+        <source src="../assets/audio/short-bell-sound-1.ogg" type="audio/ogg">
+        Your browser does not support the audio element.
+    </audio>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+<script>
+    const daysCount = document.getElementById('days-count');
+    const nextButton = document.getElementById('next-button');
+    const bellSound = document.getElementById('bell-sound');
+
+    function playAudio(audio) {
+        return new Promise(res => {
+            audio.play()
+
+            audio.onended = res
+        })
+    }
+
+    nextButton.addEventListener('click', async function () {
+        nextButton.disabled = true
+
+        await playAudio(bellSound)
+
+        daysCount.value = parseInt(daysCount.value) + 1
+
+        nextButton.disabled = false
+    });
+</script>
+</body>
+</html>
